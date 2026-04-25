@@ -38,11 +38,11 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Monishwaran45">
+  <a href="https://github.com/logesh-1613">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/monishwaran-k-ba0a1230b/">
+  <a href="https://www.linkedin.com/in/logesh-jp-8135973b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
